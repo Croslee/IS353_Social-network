@@ -8,4 +8,5 @@ This repository is dedicated to storing and managing course projects related to 
 
 ## Summary
 - This is a student research project exploring **Graph Neural Networks (GNN)** in recommendation systems through user ratings.
+- Using **MovieLens dataset 25m** for trainning model.
 
